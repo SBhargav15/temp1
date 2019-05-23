@@ -2,3 +2,5 @@
 migrations/
 templates/
 static/
+.idea/
+*.pyc
